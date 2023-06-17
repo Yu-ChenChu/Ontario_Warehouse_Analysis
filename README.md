@@ -26,7 +26,7 @@ provides an overview of who lives in Ontario, used for the introduction in story
 
 largest notebook, includes most of the maps and charts
 
-[6. Env&Health-Scatterplots.ipynb](https://github.com/rg-al/UP221-cargo/blob/main/Project-Materials/Final-notebooks/6.%20Env%26Health-Scatterplots.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/6.%20Env%26Health-Scatterplots.ipynb)
+[6. Env&Health-Scatterplots.ipynb](https://github.com/Yu-ChenChu/Ontario_Warehouse_Analysis/blob/86f8d4e682fbbffb3741c974b1b74c402448072a/5.%20Analysis.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/6.%20Env%26Health-Scatterplots.ipynb)
 
 scatterplots part of our environmental and health analysis 
 
