@@ -14,7 +14,7 @@ notebook detailing how the EJI data was cleaned to create a csv
 
 #### Analysis: all analysis files
 
-[3. LoopingWarehouseMap.ipynb](https://github.com/rg-al/UP221-cargo/blob/main/Project-Materials/Final-notebooks/3.%20LoopingWarehouseMap.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/3.%20LoopingWarehouseMap.ipynb)
+[3. LoopingWarehouseMap.ipynb](https://github.com/Yu-ChenChu/Ontario_Warehouse_Analysis/blob/21c20649c4161d42117aaf1b6457ffb3ba7b2e9b/3.%20LoopingWarehouseMap.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/3.%20LoopingWarehouseMap.ipynb)
 
 includes graphics for a GIF of the warehouses built over time
  
