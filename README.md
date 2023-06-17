@@ -30,7 +30,7 @@ largest notebook, includes most of the maps and charts
 
 scatterplots part of our environmental and health analysis 
 
-[7. EconomicAnalysis.ipynb](https://github.com/rg-al/UP221-cargo/blob/main/Project-Materials/Final-notebooks/7.%20EconomicAnalysis.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/7.%20EconomicAnalysis.ipynb)
+[7. EconomicAnalysis.ipynb](https://github.com/Yu-ChenChu/Ontario_Warehouse_Analysis/blob/940552119808c7e6f85ad55aec590b63976f89e9/7.%20EconomicAnalysis.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/7.%20EconomicAnalysis.ipynb)
 
 our analysis for the economic impact of warehouses
 
