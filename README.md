@@ -4,9 +4,9 @@ This folder includes the final notebooks created for this project. The notebooks
 
 #### Overview of the project 
 [1. AboutProject.ipynb](https://github.com/Yu-ChenChu/Ontario_Warehouse_Analysis/blob/36de68cf7c3627c28dcef2e0424fefe6df4af59a/1.%20AboutProject.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/1.%20AboutProject.ipynb)
-2. DataExploration.ipynb
+
 #### Data exploration and cleaning
-[2. DataExploration.ipynb](https://github.com/rg-al/UP221-cargo/blob/main/Project-Materials/Final-notebooks/2.%20DataExploration.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/2.%20DataExploration.ipynb)
+[2. DataExploration.ipynb](https://github.com/Yu-ChenChu/Ontario_Warehouse_Analysis/blob/de6b7eea2d862d15eea153a0cef2041184893aa7/2.%20DataExploration.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/2.%20DataExploration.ipynb)
 
 [2.1 EJIData.ipynb](https://github.com/rg-al/UP221-cargo/blob/main/Project-Materials/Final-notebooks/2.1%20EJIData.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/2.1%20EJIData.ipynb)
 
