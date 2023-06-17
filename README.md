@@ -18,7 +18,7 @@ notebook detailing how the EJI data was cleaned to create a csv
 
 includes graphics for a GIF of the warehouses built over time
  
-[4. Demographics.ipynb](https://github.com/rg-al/UP221-cargo/blob/main/Project-Materials/Final-notebooks/4.%20Demographics.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/4.%20Demographics.ipynb)
+[4. Demographics.ipynb](https://github.com/Yu-ChenChu/Ontario_Warehouse_Analysis/blob/be426268bc38a292011ad3d758432daf3fcf3e3d/4.%20Demographics.ipynb) | [Jupyter](https://jupyter.idre.ucla.edu/hub/user-redirect/lab/tree/UP221-cargo/Project-Materials/Final-notebooks/4.%20Demographics.ipynb)
 
 provides an overview of who lives in Ontario, used for the introduction in storymap
 
